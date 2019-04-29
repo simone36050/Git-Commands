@@ -7,6 +7,14 @@ _A list of my commonly used Git commands_
 
 --
 
+### Setup
+
+| Command | Description |
+| ------- | ----------- |
+| `ssh-keygen -t rsa -b 4096 -C "<user name>"` | Creating a key |
+| `git config --global user.email "you@example.com"` | Set the email |
+| `git config --global user.name "Your Name"` | Set the name |
+
 ### Getting & Creating Projects
 
 | Command | Description |
